@@ -14,7 +14,7 @@ const parisienne = Parisienne({
 });
 export const metadata: Metadata = {
   title: "Celeste Hugs",
-  description: "I would love to hear words from everyone!",
+  description: "Don't be mean!",
 };
 
 export default function RootLayout({
