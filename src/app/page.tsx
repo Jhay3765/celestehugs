@@ -77,7 +77,7 @@ export default function Home() {
               <button className="bg-green-600 font-bold text-white mt-4 text-2xl px-20 py-1 pb-2 rounded-lg w-fit">
                 Msg Sent !
               </button>
-              <p className="text-2xl">Thanks You{">.<"}</p>
+              <p className="text-2xl pr-1">Thanks You{">.<"}</p>
             </div>
           ) : (
             <button
