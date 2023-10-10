@@ -13,6 +13,10 @@ const parisienne = Parisienne({
   variable: "--font-parisienne",
 });
 export const metadata: Metadata = {
+  openGraph: {
+    description: "Don't be mean !",
+    images: ["/bear.jpg"],
+  },
   title: "Celeste Hugs",
   description: "Don't be mean!",
 };
